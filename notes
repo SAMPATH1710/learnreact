@@ -1,0 +1,48 @@
+// Javascript Library
+
+A JavaScript library is a library of pre-written JavaScript code that allows for easier development of JavaScript-based applications, especially for AJAX and other web-centric technologies.
+
+XML is a software- and hardware-independent tool for storing and transporting data.
+
+What is XML?
+XML stands for eXtensible Markup Language
+XML is a markup language much like HTML
+XML was designed to store and transport data
+XML was designed to be self-descriptive
+XML is a W3C Recommendation
+
+//But still, the XML above does not DO anything. XML is just information wrapped in tags.
+
+Someone must write a piece of software to send, receive, store, or display it:
+
+The Difference Between XML and HTML
+XML and HTML were designed with different goals:
+
+XML was designed to carry data - with focus on what data is
+HTML was designed to display data - with focus on how data looks
+XML tags are not predefined like HTML tags are
+
+XML Simplifies Things
+XML simplifies data sharing
+XML simplifies data transport
+XML simplifies platform changes
+XML simplifies data availability
+
+XML is Often a Complement to HTML
+In many HTML applications, XML is used to store or transport data, while HTML is used to format and display the same data.
+
+What is React?
+React, sometimes referred to as a frontend JavaScript framework, is a JavaScript library created by Facebook.
+
+React is a tool for building UI components.
+
+<!-- Instead of manipulating the browser's DOM directly, React creates a virtual DOM in memory, where it does all the necessary manipulating, before making the changes in the browser DOM. -->
+
+<!-- create react application  -->
+
+<!-- npx create-react-app learnreact(react folder name) -->
+<!-- npm start to run the application  -->
+<!-- 26092023 -->
+
+React components can be divided into two types, class components and functional components.
+react components are the core building blocks of any react application. It is reusable and works independently.

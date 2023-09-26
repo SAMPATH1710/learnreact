@@ -1,0 +1,28 @@
+.Header {
+  width: 100%;
+  height: 20vh;
+  border: 1px solid red;
+  background-color: lightblue;
+  text-align: center;
+}
+h3 {
+  position: relative;
+  top: 5vh;
+}
+.Sidebar1 {
+  width: 33vh;
+  height: 450px;
+  border: 1px solid red;
+  background-color: lightblue;
+}
+.body {
+  width: 100%;
+  height: 450px;
+  border: 1px solid red;
+  background-color: lightblue;
+}
+.bodymain_1 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
